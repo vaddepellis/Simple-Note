@@ -1,12 +1,16 @@
 import React from "react";
-import HighlightIcon from "@material-ui/icons/Highlight";
+import CreateIcon from '@material-ui/icons/Create';
+import NotesIcon from '@material-ui/icons/Notes';
+
 
 function Header() {
     return (
         <header>
             <h1>
-                <HighlightIcon />
-                Keeper
+                <NotesIcon />
+                <CreateIcon />
+
+                SimpeNote
             </h1>
         </header>
     );

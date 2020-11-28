@@ -9,14 +9,17 @@ html {
 body {
 
 
-    background-color: #008c8c;
-    background-image: url("https://www.transparenttextures.com/patterns/food.png");
+    background-color: #16697a;
+    background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
     padding: 0 16px;
+
 
 }
 
 header {
-    background-color: #fd8c04;
+
+    background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+    background-color: #16697a;
     margin: auto -16px;
     padding: 16px 32px;
     box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.3);
